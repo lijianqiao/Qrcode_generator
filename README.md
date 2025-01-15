@@ -44,6 +44,20 @@
 - 友好的错误提示
 - 响应式设计，支持多种设备
 
+## 项目展示
+
+- 主页
+  ![主页](docs/main.png)
+- 使用说明
+  ![使用说明](docs/docs.png)
+- 二维码展示页
+  ![单内容](docs/single.png)
+  ![多内容](docs/mut.png)
+  ![excel上传](docs/excel.png)
+  ![excel上传](docs/excel-1.png)
+  ![复制粘贴](docs/paste.png)
+  ![复制粘贴](docs/paste-1.png)
+
 ## 开发环境要求
 
 ### 后端要求
